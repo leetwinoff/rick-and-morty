@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "drf_spectacular",
     "characters",
+    "django_celery_beat",
 ]
 
 MIDDLEWARE = [
